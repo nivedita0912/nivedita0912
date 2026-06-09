@@ -1,10 +1,9 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>I'm Nivedita Thapliyal, a Full-Stack Developer passionate about turning ideas into scalable digital products.<br><br>With hands-on experience building production-ready applications during my internship at <a href="https://github.com/Skills-Yard"> SkillsYard</a> , I've worked across the entire development lifecycle—from designing responsive user interfaces to developing secure backend systems and APIs.<br><br>I enjoy working with Next.js, React, TypeScript, Node.js, and MongoDB, and I'm continuously improving my problem-solving skills through Data Structures & Algorithms in Java.<br><br>When I'm not coding, you'll usually find me learning new technologies, refining projects, or tackling challenging programming problems.<br>
+
 ## 💫 About Me
 
-Full-Stack Developer with hands-on experience building and maintaining production-ready web applications using modern JavaScript technologies.
+##Full-Stack Developer with hands-on experience building and maintaining production-ready web applications using modern JavaScript technologies.
 
-As a former Full-Stack Developer Intern at SkillsYard, I contributed to large-scale EdTech platforms by developing backend services, authentication systems, REST APIs, database integrations, and reusable frontend components. My work included implementing secure JWT-based authentication, designing result and user management systems, and delivering responsive user interfaces aligned with product requirements.
+As a former Full-Stack Developer Intern at <a href="https://github.com/Skills-Yard"> SkillsYard</a> , I contributed to large-scale EdTech platforms by developing backend services, authentication systems, REST APIs, database integrations, and reusable frontend components. My work included implementing secure JWT-based authentication, designing result and user management systems, and delivering responsive user interfaces aligned with product requirements.
 
 I specialize in **Next.js, React, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, and MySQL**, and I enjoy building applications that combine performance, scalability, and exceptional user experience.
 
