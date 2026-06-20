@@ -11,7 +11,7 @@ Currently, I am focused on advancing my expertise in software engineering, syste
 
 ⚡ Building scalable applications.
 🧠 Solving complex problems.
-🚀 Growing one project at a time.
+🚀 Growing one project at a time .
 
 
 
